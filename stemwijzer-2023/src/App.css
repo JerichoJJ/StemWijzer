@@ -1,0 +1,56 @@
+/* src/styles/App.css */
+
+/* Algemene stijl voor de hele applicatie */
+
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif; /* Stel een gewenst lettertype in */
+  background-color: #f5f5f5; /* Achtergrondkleur voor de hele pagina */
+  padding: 20px; /* Voeg wat ruimte rondom de inhoud toe */
+}
+
+/* Stijl voor het logo */
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+/* Stijl voor het navigatiemenu in de header */
+
+.App-header {
+  background-color: #282c34; /* Achtergrondkleur voor de header */
+  min-height: 100px; /* Minimale hoogte van de header */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px; /* Lettergrootte voor de header */
+  color: white; /* Tekstkleur in de header */
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2); /* Voeg een lichte schaduw toe aan de header */
+}
+
+/* Stijl voor de link in de header */
+
+.App-link {
+  color: #61dafb; /* Kleur van de link */
+  text-decoration: none; /* Verwijder de onderstreping van de link */
+  margin: 10px; /* Voeg wat ruimte tussen de links toe */
+}
+
+/* Stijl voor de content van de pagina (hoofdgedeelte) */
+
+.App-content {
+  background-color: white; /* Achtergrondkleur voor het hoofdgedeelte */
+  padding: 20px; /* Voeg wat ruimte rondom de content toe */
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1); /* Voeg een lichte schaduw toe aan de content */
+}
+
+/* Stijl voor de footer */
+
+.App-footer {
+  background-color: #282c34; /* Achtergrondkleur voor de footer */
+  color: white; /* Tekstkleur in de footer */
+  padding: 10px; /* Voeg wat ruimte rondom de footer toe */
+  text-align: center; /* Centreer de tekst in de footer */
+}
