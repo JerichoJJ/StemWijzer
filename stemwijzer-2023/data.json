@@ -1,0 +1,45 @@
+{
+    "partijen": [
+      {
+        "partij_id": 1,
+        "partij_naam": "Partij A",
+        "partij_leider": "Leider A"
+      },
+      {
+        "partij_id": 2,
+        "partij_naam": "Partij B",
+        "partij_leider": "Leider B"
+      },
+      {
+        "partij_id": 3,
+        "partij_naam": "Partij C",
+        "partij_leider": "Leider C"
+      }
+    ],
+    "stellingen": [
+      {
+        "stelling_id": 1,
+        "stelling_text": "Stelling 1",
+        "stelling_extra": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam magnam numquam odio commodi obcaecati, quos autem eum perspiciatis illo iusto libero maxime iste accusamus odit, possimus nemo dolor blanditiis labore!",
+        "eens": 1,
+        "oneens": 2,
+        "geen_mening": 3
+      },
+      {
+        "stelling_id": 2,
+        "stelling_text": "Stelling 2",
+        "stelling_extra": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam magnam numquam odio commodi obcaecati, quos autem eum perspiciatis illo iusto libero maxime iste accusamus odit, possimus nemo dolor blanditiis labore!",
+        "eens": 1,
+        "oneens": 2,
+        "geen_mening": 3
+      },
+      {
+        "stelling_id": 3,
+        "stelling_text": "Stelling 3",
+        "stelling_extra": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam magnam numquam odio commodi obcaecati, quos autem eum perspiciatis illo iusto libero maxime iste accusamus odit, possimus nemo dolor blanditiis labore!",
+        "eens": 1,
+        "oneens": 2,
+        "geen_mening": 3
+      }
+    ]
+  }
