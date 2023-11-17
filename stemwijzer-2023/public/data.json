@@ -1,0 +1,631 @@
+{
+  "questions": [
+    {
+      "stelling_id": 1,
+      "question": "Vee",
+      "question_detail": "De regering moet ervoor zorgen dat de hoeveelheid vee minstens de helft kleiner wordt.",
+      "options": {
+        "Eens": 1,
+        "Geen Mening": 2,
+        "Oneens": 3
+      }
+    },
+    {
+      "stelling_id": 2,
+      "question": "Lagere prijs benzine",
+      "question_detail": "De accijns op benzine, gas en diesel moet omlaag.",
+      "options": {
+        "Eens": 1,
+        "Geen Mening": 2,
+        "Oneens": 3
+      }
+    },
+    {
+      "stelling_id": {
+        "stance": 3,
+        "detail": "."
+      },
+      "question": "Eigen risico zorgverzekering",
+      "question_detail": "Het eigen risico bij zorgverzekeringen moet worden afgeschaft.",
+      "options": {
+        "Eens": 1,
+        "Geen Mening": 2,
+        "Oneens": 3
+      }
+    },
+    {
+      "stelling_id": 4,
+      "question": "Kiezen per regio",
+      "question_detail": "Elke regio in Nederland moet een vast aantal mensen in de Tweede Kamer krijgen.",
+      "options": {
+        "Eens": 1,
+        "Geen Mening": 2,
+        "Oneens": 3
+      }
+    },
+    {
+      "stelling_id": 5,
+      "question": "OV voor 65-plussers",
+      "question_detail": "Mensen vanaf 65 jaar moeten gratis met trein, tram en bus kunnen reizen.",
+      "options": {
+        "Eens": 1,
+        "Geen Mening": 2,
+        "Oneens": 3
+      }
+    },
+    {
+      "stelling_id": 6,
+      "question": "CO2-opslag",
+      "question_detail": "De regering moet meer investeren in opslag van CO2 onder de grond.",
+      "options": {
+        "Eens": 1,
+        "Geen Mening": 2,
+        "Oneens": 3
+      }
+    },
+    {
+      "stelling_id": 7,
+      "question": "Visum Surinamers.",
+      "question_detail": "De regering moet ervoor zorgen dat Surinamers zonder visum naar nederland kunnen reizen.",
+      "options": {
+        "Eens": 1,
+        "Geen Mening": 2,
+        "Oneens": 3
+      }
+    },
+    {
+      "stelling_id": 8,
+      "question": "2% voor defensie",
+      "question_detail": "Er moet een wet komen waarin staat dat Nederland altijd 2% van het bruto binnenlands product uitgeeft aan defensie.",
+      "options": {
+        "Eens": 1,
+        "Geen Mening": 2,
+        "Oneens": 3
+      }
+    },
+    {
+      "stelling_id": 9,
+      "question": "Cultuuronderwijs",
+      "question_detail": "De overheid moet meer geld geven aan scholen voor lessen in kunst en cultuur.",
+      "options": {
+        "Eens": 1,
+        "Geen Mening": 2,
+        "Oneens": 3
+      }
+    },
+    {
+      "stelling_id": 10,
+      "question": "Kerncentrales",
+      "question_detail": "In Nederland moeten meer kerncentrales komen.",
+      "options": {
+        "Eens": 1,
+        "Geen Mening": 2,
+        "Oneens": 3
+      }
+    },
+    {
+      "stelling_id": 11,
+      "question": "Vliegbelasting",
+      "question_detail": "De belasting op vliegreizen moet omhoog.",
+      "options": {
+        "Eens": 1,
+        "Geen Mening": 2,
+        "Oneens": 3
+      }
+    },
+    {
+      "stelling_id": 12,
+      "question": "Kopen huurwoning",
+      "question_detail": "Huurders moeten het recht krijgen om hun sociale huurwoning te kopen van de woningcorporatie.",
+      "options": {
+        "Eens": 1,
+        "Geen Mening": 2,
+        "Oneens": 3
+      }
+    },
+    {
+      "stelling_id": 13,
+      "question": "Kinderopvang zonder winstoogmerk",
+      "question_detail": "Kinderopvang mag alleen worden aangeboden door organisaties die geen winst maken.",
+      "options": {
+        "Eens": 1,
+        "Geen Mening": 2,
+        "Oneens": 3
+      }
+    },
+    {
+      "stelling_id": 14,
+      "question": "Gezinshereniging",
+      "question_detail": "Als een vluchteling in Nederland mag blijven, mag het gezin nu naar Nederland komen. De regering moet dat beperken.",
+      "options": {
+        "Eens": 1,
+        "Geen Mening": 2,
+        "Oneens": 3
+      }
+    },
+    {
+      "stelling_id": 15,
+      "question": "Belasting op vermogen",
+      "question_detail": "De belasting op vermogen boven 57.000 euro moet omhoog.",
+      "options": {
+        "Eens": 1,
+        "Geen Mening": 2,
+        "Oneens": 3
+      }
+    },
+    {
+      "stelling_id": 16,
+      "question": "Controle op religieuze groepen",
+      "question_detail": "De overheid moet strenger controleren wat jongeren leren bij kerken, moskeeën en andere orginisaties die les geven op basis van een levensbeschouwing.",
+      "options": {
+        "Eens": 1,
+        "Geen Mening": 2,
+        "Oneens": 3
+      }
+    },
+    {
+      "stelling_id": 17,
+      "question": "Stikstof",
+      "question_detail": "De regering moet ervoor zorgen dat er in 2030 minstens de helft minder stikstof in de lucht komt.",
+      "options": {
+        "Eens": 1,
+        "Geen Mening": 2,
+        "Oneens": 3
+      }
+    },
+    {
+      "stelling_id": 18,
+      "question": "Afschaffen kostendelersnorm",
+      "question_detail": "Als je recht hebt op een uitkering en je woont samen, moet je hetzelfde bedrag krijgen als wanneer je alleen woont.",
+      "options": {
+        "Eens": 1,
+        "Geen Mening": 2,
+        "Oneens": 3
+      }
+    },
+    {
+      "stelling_id": 19,
+      "question": "Uitbreiding Europese Unie",
+      "question_detail": "de regering moet zich ertegen verzetten dat meer landen lid worden van de Europese Unie.",
+      "options": {
+        "Eens": 1,
+        "Geen Mening": 2,
+        "Oneens": 3
+      }
+    },
+    {
+      "stelling_id": 20,
+      "question": "Risicoprofilering op basis van nationaliteit",
+      "question_detail": "De overheid mag nooit de afkomst of nationaliteit van mensen gebruiken om risico's op criminaliteit in te schatten.",
+      "options": {
+        "Eens": 1,
+        "Geen Mening": 2,
+        "Oneens": 3
+      }
+    },
+    {
+      "stelling_id": 21,
+      "question": "Elektrische auto's",
+      "question_detail": "De overheid moet geen geld meer geven aan mensen om een elektrische auto te kopen.",
+      "options": {
+        "Eens": 1,
+        "Geen Mening": 2,
+        "Oneens": 3
+      }
+    },
+    {
+      "stelling_id": 22,
+      "question": "Hoger minimumloon",
+      "question_detail": "Het minimumloon moet binnen drie jaar van 11.51 euro bruto per uur naar 16 euro bruto per uur.",
+      "options": {
+        "Eens": 1,
+        "Geen Mening": 2,
+        "Oneens": 3
+      }
+    },
+    {
+      "stelling_id": 23,
+      "question": "Bouwen op landbouwgrond",
+      "question_detail": "De regering moet het bouwen van woonwijken op landbouwgrond gemakkelijker maken.",
+      "options": {
+        "Eens": 1,
+        "Geen Mening": 2,
+        "Oneens": 3
+      }
+    },
+    {
+      "stelling_id": 24,
+      "question": "Referendum",
+      "question_detail": "Inwoners van Nederland moeten een nieuwe wet kunnen tegenhouden met referendum.",
+      "options": {
+        "Eens": 1,
+        "Geen Mening": 2,
+        "Oneens": 3
+      }
+    },
+    {
+      "stelling_id": 25,
+      "question": "vuurwerk",
+      "question_detail": "De regering moet het afsteken van vuurwerk door particulieren helemaal verbieden.",
+      "options": {
+        "Eens": 1,
+        "Geen Mening": 2,
+        "Oneens": 3
+      }
+    },
+    {
+      "stelling_id": 26,
+      "question": "Duurzame bedrijven",
+      "question_detail": "De overheid moet bedrijven minder geld geven om duurzamer te worden.",
+      "options": {
+        "Eens": 1,
+        "Geen Mening": 2,
+        "Oneens": 3
+      }
+    },
+    {
+      "stelling_id": 27,
+      "question": "Voltooid leven",
+      "question_detail": "Mensen die vinden dat ze klaar zijn met hun leven, moeten hulp kunnen krijgen bij zelfdoding.",
+      "options": {
+        "Eens": 1,
+        "Geen Mening": 2,
+        "Oneens": 3
+      }
+    },
+    {
+      "stelling_id": 28,
+      "question": "Ontwikkelingshulp en asielzoekers",
+      "question_detail": "Nederland moet geen ontwikkelingshulp geven aan landen die weigeren uitgeprocedeerde asielzoekers terug te nemen.",
+      "options": {
+        "Eens": 1,
+        "Geen Mening": 2,
+        "Oneens": 3
+      }
+    },
+    {
+      "stelling_id": 29,
+      "question": "Huurstijging",
+      "question_detail": "De huurprijs van woningen mag de komende drie jaar niet stijgen.",
+      "options": {
+        "Eens": 1,
+        "Geen Mening": 2,
+        "Oneens": 3
+      }
+    },
+    {
+      "stelling_id": 30,
+      "question": "Minimumstraffen",
+      "question_detail": "Er moeten minimumstraffen komen voor mensen die zwaar geweld gebruiken.",
+      "options": {
+        "Eens": 1,
+        "Geen Mening": 2,
+        "Oneens": 3
+      }
+    }
+  ],
+"party_scores": {
+      "D66": {
+        "question_1": "Eens",
+        "question_2": "Oneens",
+        "question_3": "Oneens",
+        "question_4": "Eens",
+        "question_5": "Oneens",
+        "question_6": "Eens",
+        "question_7": "Eens",
+        "question_8": "Eens",
+        "question_9": "Eens",
+        "question_10": "Eens",
+        "question_11": "Eens",
+        "question_12": "Eens",
+        "question_13": "Eens",
+        "question_14": "Oneens",
+        "question_15": "Eens",
+        "question_16": "Eens",
+        "question_17": "Eens",
+        "question_18": "Oneens",
+        "question_19": "Oneens",
+        "question_20": "Eens",
+        "question_21": "Oneens",
+        "question_22": "Eens",
+        "question_23": "Eens",
+        "question_24": "Eens",
+        "question_25": "Eens",
+        "question_26": "Oneens",
+        "question_27": "Eens",
+        "question_28": "Eens",
+        "question_29": "Eens",
+        "question_30": "Oneens"
+      },
+      "GL-PvdA": {
+        "question_1": "Eens",
+        "question_2": "Oneens",
+        "question_3": "Eens",
+        "question_4": "Oneens",
+        "question_5": "Oneens",
+        "question_6": "Oneens",
+        "question_7": "Eens",
+        "question_8": "Eens",
+        "question_9": "Eens",
+        "question_10": "Oneens",
+        "question_11": "Eens",
+        "question_12": "Eens",
+        "question_13": "Eens",
+        "question_14": "Oneens",
+        "question_15": "Eens",
+        "question_16": "Eens",
+        "question_17": "Eens",
+        "question_18": "Eens",
+        "question_19": "Oneens",
+        "question_20": "Eens",
+        "question_21": "Oneens",
+        "question_22": "Eens",
+        "question_23": "Eens",
+        "question_24": "Eens",
+        "question_25": "Eens",
+        "question_26": "Oneens",
+        "question_27": "Eens",
+        "question_28": "Oneens",
+        "question_29": "Eens",
+        "question_30": "Oneens"
+      },
+      "VVD": {
+        "question_1": "Oneens",
+        "question_2": "Eens",
+        "question_3": "Oneens",
+        "question_4": "Oneens",
+        "question_5": "Oneens",
+        "question_6": "Eens",
+        "question_7": "Oneens",
+        "question_8": "Eens",
+        "question_9": "Oneens",
+        "question_10": "Eens",
+        "question_11": "Oneens",
+        "question_12": "Eens",
+        "question_13": "Oneens",
+        "question_14": "Eens",
+        "question_15": "Oneens",
+        "question_16": "Eens",
+        "question_17": "Oneens",
+        "question_18": "Oneens",
+        "question_19": "Oneens",
+        "question_20": "Oneens",
+        "question_21": "Oneens",
+        "question_22": "Oneens",
+        "question_23": "Eens",
+        "question_24": "Oneens",
+        "question_25": "Oneens",
+        "question_26": "Oneens",
+        "question_27": "Eens",
+        "question_28": "Eens",
+        "question_29": "Oneens",
+        "question_30": "Eens"
+      },
+      "PVV": {
+        "question_1": "Oneens",
+        "question_2": "Eens",
+        "question_3": "Eens",
+        "question_4": "Oneens",
+        "question_5": "Eens",
+        "question_6": "Oneens",
+        "question_7": "Oneens",
+        "question_8": "Oneens",
+        "question_9": "Oneens",
+        "question_10": "Eens",
+        "question_11": "Oneens",
+        "question_12": "Eens",
+        "question_13": "Eens",
+        "question_14": "Eens",
+        "question_15": "Eens",
+        "question_16": "Eens",
+        "question_17": "Oneens",
+        "question_18": "Oneens",
+        "question_19": "Eens",
+        "question_20": "Oneens",
+        "question_21": "Eens",
+        "question_22": "Eens",
+        "question_23": "Oneens",
+        "question_24": "Eens",
+        "question_25": "Oneens",
+        "question_26": "Eens",
+        "question_27": "Geen mening",
+        "question_28": "Eens",
+        "question_29": "Eens",
+        "question_30": "Eens"
+      },
+      "CDA": {
+        "question_1": "Oneens",
+        "question_2": "Eens",
+        "question_3": "Oneens",
+        "question_4": "Eens",
+        "question_5": "Oneens",
+        "question_6": "Oneens",
+        "question_7": "Eens",
+        "question_8": "Eens",
+        "question_9": "Oneens",
+        "question_10": "Eens",
+        "question_11": "Eens",
+        "question_12": "Eens",
+        "question_13": "Eens",
+        "question_14": "Eens",
+        "question_15": "Oneens",
+        "question_16": "Oneens",
+        "question_17": "Oneens",
+        "question_18": "Oneens",
+        "question_19": "Oneens",
+        "question_20": "Eens",
+        "question_21": "Oneens",
+        "question_22": "Oneens",
+        "question_23": "Eens",
+        "question_24": "Oneens",
+        "question_25": "Oneens",
+        "question_26": "Oneens",
+        "question_27": "Oneens",
+        "question_28": "Eens",
+        "question_29": "Oneens",
+        "question_30": "Oneens"
+      },
+      "SP": {
+        "question_1": "Oneens",
+        "question_2": "Eens",
+        "question_3": "Eens",
+        "question_4": "Oneens",
+        "question_5": "Eens",
+        "question_6": "Oneens",
+        "question_7": "Eens",
+        "question_8": "Oneens",
+        "question_9": "Eens",
+        "question_10": "Oneens",
+        "question_11": "Oneens",
+        "question_12": "Oneens",
+        "question_13": "Eens",
+        "question_14": "Oneens",
+        "question_15": "Eens",
+        "question_16": "Eens",
+        "question_17": "Oneens",
+        "question_18": "Eens",
+        "question_19": "Eens",
+        "question_20": "Eens",
+        "question_21": "Eens",
+        "question_22": "Eens",
+        "question_23": "Eens",
+        "question_24": "Eens",
+        "question_25": "Oneens",
+        "question_26": "Eens",
+        "question_27": "Oneens",
+        "question_28": "Oneens",
+        "question_29": "Eens",
+        "question_30": "Oneens"
+      },
+      "JA21": {
+        "question_1": "Oneens",
+        "question_2": "Eens",
+        "question_3": "Oneens",
+        "question_4": "Eens",
+        "question_5": "Oneens",
+        "question_6": "Oneens",
+        "question_7": "Oneens",
+        "question_8": "Eens",
+        "question_9": "Oneens",
+        "question_10": "Eens",
+        "question_11": "Oneens",
+        "question_12": "Eens",
+        "question_13": "Oneens",
+        "question_14": "Eens",
+        "question_15": "Oneens",
+        "question_16": "Eens",
+        "question_17": "Oneens",
+        "question_18": "Oneens",
+        "question_19": "Eens",
+        "question_20": "Oneens",
+        "question_21": "Eens",
+        "question_22": "Oneens",
+        "question_23": "Geen mening",
+        "question_24": "Eens",
+        "question_25": "Oneens",
+        "question_26": "Eens",
+        "question_27": "Oneens",
+        "question_28": "Eens",
+        "question_29": "Oneens",
+        "question_30": "Eens"
+      },
+      "SGP": {
+        "question_1": "Oneens",
+        "question_2": "Eens",
+        "question_3": "Oneens",
+        "question_4": "Oneens",
+        "question_5": "Oneens",
+        "question_6": "Oneens",
+        "question_7": "Oneens",
+        "question_8": "Eens",
+        "question_9": "Oneens",
+        "question_10": "Eens",
+        "question_11": "Eens",
+        "question_12": "Oneens",
+        "question_13": "Oneens",
+        "question_14": "Eens",
+        "question_15": "Oneens",
+        "question_16": "Oneens",
+        "question_17": "Oneens",
+        "question_18": "Oneens",
+        "question_19": "Eens",
+        "question_20": "Oneens",
+        "question_21": "Oneens",
+        "question_22": "Oneens",
+        "question_23": "Oneens",
+        "question_24": "Oneens",
+        "question_25": "Eens",
+        "question_26": "Oneens",
+        "question_27": "Oneens",
+        "question_28": "Oneens",
+        "question_29": "Oneens",
+        "question_30": "Eens"
+      },
+      "DENK": {
+        "question_1": "Oneens",
+        "question_2": "Eens",
+        "question_3": "Eens",
+        "question_4": "Eens",
+        "question_5": "Eens",
+        "question_6": "Eens",
+        "question_7": "Eens",
+        "question_8": "Oneens",
+        "question_9": "Eens",
+        "question_10": "Eens",
+        "question_11": "Oneens",
+        "question_12": "Eens",
+        "question_13": "Oneens",
+        "question_14": "Oneens",
+        "question_15": "Eens",
+        "question_16": "Oneens",
+        "question_17": "Oneens",
+        "question_18": "Eens",
+        "question_19": "Oneens",
+        "question_20": "Eens",
+        "question_21": "Oneens",
+        "question_22": "Eens",
+        "question_23": "Eens",
+        "question_24": "Oneens",
+        "question_25": "Oneens",
+        "question_26": "Oneens",
+        "question_27": "Oneens",
+        "question_28": "Oneens",
+        "question_29": "Eens",
+        "question_30": "Eens"
+      },
+      "BBB": {
+        "question_1": "Oneens",
+        "question_2": "Eens",
+        "question_3": "Eens",
+        "question_4": "Eens",
+        "question_5": "Eens",
+        "question_6": "Eens",
+        "question_7": "Oneens",
+        "question_8": "Eens",
+        "question_9": "Oneens",
+        "question_10": "Eens",
+        "question_11": "Oneens",
+        "question_12": "Eens",
+        "question_13": "Eens",
+        "question_14": "Eens",
+        "question_15": "Oneens",
+        "question_16": "Eens",
+        "question_17": "Oneens",
+        "question_18": "Eens",
+        "question_19": "Oneens",
+        "question_20": "Eens",
+        "question_21": "Oneens",
+        "question_22": "Eens",
+        "question_23": "Oneens",
+        "question_24": "Eens",
+        "question_25": "Oneens",
+        "question_26": "Oneens",
+        "question_27": "Geen mening",
+        "question_28": "Eens",
+        "question_29": "Oneens",
+        "question_30": "Eens"
+      }
+
+    }
+
+}
