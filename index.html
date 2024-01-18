@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="nl">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Stemwijzer</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div id="progressBar">
+      Vraag <span id="currentQuestionNumber"></span>/30
+    </div>
+    <div id="questionContainer">
+      <h2 id="questionTitle"></h2>
+      <p id="questionDetail"></p>
+      <div id="answerButtons"></div>
+    </div>
+    <div id="continueOrResult" style="display: none">
+      <p>Wil je je antwoorden herzien of de resultaten bekijken?</p>
+      <button onclick="continueAnswering()">Antwoorden herzien</button>
+      <button onclick="viewResults()">Resultaten bekijken</button>
+    </div>
+    <button id="backButton" onclick="previousQuestion()" style="display: none">
+      Terug
+    </button>
+    <div id="resultsContainer" style="display: none"></div>
+    <script src="stemwijzer.js"></script>
+  </body>
+</html>

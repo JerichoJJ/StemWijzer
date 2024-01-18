@@ -1,0 +1,97 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#progressBar {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+#answerButtons button {
+  margin: 5px;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  text-align: center;
+}
+
+#answerButtons button:hover {
+  opacity: 0.8;
+}
+
+#answerButtons .Eens {
+  background-color: green;
+  color: white;
+}
+
+#answerButtons .Oneens {
+  background-color: red;
+  color: white;
+}
+
+#answerButtons .GeenMening {
+  background-color: grey;
+  color: white;
+}
+
+#questionContainer,
+#continueOrResult,
+#resultsContainer {
+  margin: 20px auto;
+  width: 80%;
+  max-width: 600px;
+}
+
+#backButton {
+  background-color: orange;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 15px;
+  display: block;
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#backButton:hover {
+  opacity: 0.8;
+}
+
+#continueOrResult button {
+  background-color: rgb(0, 157, 255);
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 5px;
+}
+
+#continueOrResult button:last-child {
+  background-color: rgb(0, 85, 255);
+}
+
+#continueOrResult button:hover {
+  opacity: 0.8;
+}
+
+#answerButtons button,
+#backButton {
+  margin: 5px;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
